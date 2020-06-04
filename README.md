@@ -46,5 +46,14 @@ The goal of this tutorial is to take you one step further in your journey of bec
         Question(q: "Where is Tasmania located?", a: ["Indonesia", "Australia", "Scotland"], correctAnswer: "Australia")
 ```        
 
+<p>
+  <img src="https://raw.githubusercontent.com/swift-apps-developer/restaurant/master/app-images/categories.png" width="350" />
+  <img src="https://raw.githubusercontent.com/swift-apps-developer/restaurant/master/app-images/menu-items.png" width="350" /> 
+</p>
 
+<p>
+  <img src="https://raw.githubusercontent.com/swift-apps-developer/restaurant/master/app-images/menu-item.png" width="350" />
+  <img src="https://raw.githubusercontent.com/swift-apps-developer/restaurant/master/app-images/order.png" width="350" />
+
+</p>
 

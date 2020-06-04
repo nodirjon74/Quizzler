@@ -48,7 +48,7 @@ The goal of this tutorial is to take you one step further in your journey of bec
 
 <p>
   <img src="1.png width="350" />
-  <img src="1.png" width="350" /> 
+  <img src="2.png" width="350" /> 
 </p>
 
 
